@@ -1,0 +1,56 @@
+BADIR FRAMEWORK
+BADIR is an acronym for five steps of the Data to Decisions framework. 
+The process helps you from determining what questions to ask through the design of your analysis, collection of data, and analysis of data all the way to recommendations for actions that help drive impact on your business. 
+I have chosen this approach as it is simple and easily understandable to people without technical backgrounds.
+
+
+Business Plan --->  Analysis Plan ---> Data Collection --->Derive Indights -->  Recommendations.
+
+
+
+
+Case Study: Smart homes that provide the owners with data analytics about power usage.
+Step 1: Business Question
+
+
+Context : Evaluating the benefits of sub metering. Help Customer make decisions about altering power consumption.
+Impacted Segments :Home builders and potential home builders
+
+Restrictions:
+There is no data corresponding to the weather and the location which has a huge impact on energy consumptions based on various studies conducted.
+
+
+Step:2 Analysis Plan
+
+Analysis goals:
+•	Review the benefits of sub metering and study cost v/s savings for the same.
+
+Methodology
+
+
+Trend Analysis
+SEgmentation
+Samplining
+
+
+Step 3: Data Collection
+
+
+use a Public repository
+
+
+
+Step 4:  Derive Insights
+
+
+1)	Zone 3 (Heating and air-conditioning) contribute significantly to a household’s electricity.
+2)	Peak times are same globally.
+3)	Weekends energy consumptions are significantly higher than weekdays.
+
+
+Recommendations
+
+
+1) use of smart applicances 
+2) submetering can be used effectively if the zones are divided.
+
