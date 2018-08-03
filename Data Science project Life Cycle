@@ -1,0 +1,29 @@
+Main Steps in the Project:
+
+
+Look at the Big Picture.(understand the problem)
+Get the Data. ( public repositorires, /meta Portals)
+Discover and vidualize the data to gain insights. ( visulaization and corelation)
+Prepare Data for Machine Learning.(cleansing) 
+Select a model.
+Fine-tune your model. (training and testing)
+Present your solution. 
+Launch, Monitor and maintain your system.
+
+
+Where can you get the data for Data Science Projects?
+
+http://archive.ics.uci.edu/ml
+https://www.kaggle.com/datasets
+https://aws.amazon.com/fr/datasets
+http://dataportals.org/
+http://opendatamonitor.eu/
+http://quandl.com
+https://goo.gl/SJHN2K
+https://goo.gl/zDR78y
+https://www.reddit.com/datasets
+
+
+
+
+
